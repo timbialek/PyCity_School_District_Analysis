@@ -14,10 +14,10 @@
 
 
 * New District Summary including Thomas High School excluding 9th Grade reading and math scores
- ![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/District_Summary_Original.png)
+ ![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/District_Summary_Original.png)
 
 * Original District Summary excluding Thomas High School 9th Grade reading and math scores
- ![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/District_Summary_New.png)
+ ![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/District_Summary_New.png)
 
  	
 * The impact to the district summary is minimal and as you can see in the above two images can only be noticed when looking summary at the one-hundredth decimal place.   
@@ -44,10 +44,10 @@
 
 
 New School Summary for Thomas High School excluding 9th Grade reading and math scores
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Thomas_High_School_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Thomas_High_School_New.png)
 
 Original School Summary Thomas High School including 9th Grade reading and math scores
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Thomas_High_School_Original.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Thomas_High_School_Original.png)
 
 
 ----------
@@ -59,11 +59,11 @@ Original School Summary Thomas High School including 9th Grade reading and math 
 
 
 Original Top #5 % Overall Passing
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/School_Ranking_Original.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/School_Ranking_Original.png)
 
  
 New School Rankings Rankings:
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/School_Ranking_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/School_Ranking_New.png)
 
 
 ----------
@@ -75,10 +75,10 @@ New School Rankings Rankings:
 	* The impact to replacing the 9th grade scores for Thomas High School is that they are no longer taken into account in the calculation of the scores and are reflected as null values in the data or nan when viewing the dataframe as in the below image.
 
 New Math and Reading Scores by Grade
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Math_and_Reading_Scores_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Math_and_Reading_Scores_New.png)
 
 Original Math and Reading Scores
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Math_and_Reading_Scores_Original.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Math_and_Reading_Scores_Original.png)
 
 ----------
 
@@ -88,10 +88,10 @@ Original Math and Reading Scores
 	* There is no impact on the spending per student because we did not adjust the number of students for the spending calculation.
 
 New Scores by School Spending
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Spending_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Spending_New.png)
 
 Original Scores by School Spending
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Spending_Original.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Spending_Original.png)
 
 
 ----------
