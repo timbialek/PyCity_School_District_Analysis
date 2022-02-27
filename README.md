@@ -34,7 +34,7 @@
 
 
 ### School Summary Impact
-* When viewing the school summary, the only line that is impacted is for Thomas high school as no other schools had their data modified for the potential academic dishonesty.  Below is the before and after summaries for Thomas High School and the complete school summary for the new and original can be found by clicking on the following links: [New School Summary](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/School_Summary_New.png) and [Original School Summary](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/School_Summary_Original.png)
+* When viewing the school summary, the only line that is impacted is for Thomas high school as no other schools had their data modified for the potential academic dishonesty.  Below is the before and after summaries for Thomas High School and the complete school summary for the new and original can be found by clicking on the following links: [New School Summary](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/School_Summary_New.png) and [Original School Summary](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/School_Summary_Original.png)
 * As you can see in the below two images for Thomas High School there are some impacts to the scores as follows:
 	* Average math score decreased by  -0.067412  (-0.08%)
 	* Average Reading Score increased by +0.047152  (+0.06%)
@@ -101,10 +101,10 @@ Original Scores by School Spending
 	* When looking at high level summaries of the data by School Size there is no impact from removing the Thomas High school 9th graders from summary.  Since we did not remove the 9th grade students from the population there is no impact to the calculation of the school size and there is not enough of a change in the avg scores or passing metrics to impact the results we are seeing.   
 
 New Scores by School Size
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Size_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Size_New.png)
 
 Original Scores by School Size
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Size_Original.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Size_Original.png)
 
 ---------
 
@@ -113,11 +113,11 @@ Original Scores by School Size
 	* Again, we can see here that there is no impact on the scores when summarized at this high of a level
 
 New Scores by School Type 
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
 
 
 Original Scores by School Type
-![](https://github.com/timbialek/School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
+![](https://github.com/timbialek/PyCity_School_District_Analysis/blob/main/Resources/Scores_by_Type_New.png)
 
 
 ---------
